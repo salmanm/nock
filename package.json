@@ -1,5 +1,5 @@
 {
-  "name": "nock",
+  "name": "nock-forked",
   "description": "HTTP server mocking and expectations library for Node.js",
   "tags": [
     "Mock",
